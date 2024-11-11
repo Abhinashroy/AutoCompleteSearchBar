@@ -102,7 +102,14 @@ function addActive(items) {
     removeActive(items);
     if (currentFocus >= items.length) currentFocus = 0;
     if (currentFocus < 0) currentFocus = items.length - 1;
+    
     items[currentFocus].classList.add("active-suggestion");
+
+    // Scroll the active item into view
+    items[currentFocus].scrollIntoView({
+        behavior: "smooth",
+        block: "nearest"
+    });
 }
 
 function removeActive(items) {
