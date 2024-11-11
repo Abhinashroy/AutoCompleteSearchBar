@@ -73,7 +73,7 @@ This project is an interactive search bar with autocomplete functionality. It dy
 1.[Varchasva Raj Saxena](https://github.com/Varchasva-Raj-Saxena)</br>
 2.[Anmol Yadav](https://github.com/AnmolYadav1301)</br>
 3.[Abhinash Roy](https://github.com/Abhinashroy)</br>
-4.[Deepanshu ]()
+4.[Deepanshu ](https://github.com/DeepanshuPayal123)
 
 ---
 ## FAQ
