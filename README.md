@@ -4,6 +4,9 @@
 **Autocomplete Search Bar**  
 This project is an interactive search bar with autocomplete functionality. It dynamically provides search suggestions as the user types, making it ideal for applications that require fast and efficient text searches. Unique features include prefix, suffix, and infix search suggestions, with a priority for frequently searched terms.
 
+## Screenshot
+![Autocomplete Search Bar Demo](dsaproject.png)
+
 ## Table of Contents
 1. [Project Title and Description](#project-title-and-description)
 2. [Table of Contents](#table-of-contents)
